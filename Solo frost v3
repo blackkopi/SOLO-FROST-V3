@@ -1,3 +1,7 @@
+voteModifiers({HiddenEnemies = true, Glass = true, ExplodingEnemies = true, Committed = true, Quarantine = true})
+unlockTimeScale()
+cycleTimeScale()
+cycleTimeScale()
 place(22.486, 0.987, 24.196, "Scout", 250)
 place(22.509, 0.988, 27.285, "Scout", 250)
 place(19.329, 0.983, 24.060, "Scout", 250)
